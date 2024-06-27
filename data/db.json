@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "my post 1",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit accusantium consequatur repudiandae ipsa, incidunt voluptates similique qui esse alias. Itaque esse, facilis quae enim libero rem incidunt architecto cum obcaecati!",
+      "dateTime": "February 23,2024 4:36:49 PM"
+    },
+    {
+      "id": "11",
+      "title": "ds",
+      "body": "fd",
+      "dateTime": "February 23,2024 9:51:46 PM",
+      "edit": "Edited"
+    }
+  ]
+}
